@@ -1,0 +1,4 @@
+   0 vi script.sh
+   1 chmod +x script.sh
+   2 alias 123='/root/script.sh'
+   3 history > history.txt
