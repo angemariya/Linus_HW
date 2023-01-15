@@ -1,0 +1,3 @@
+   0 nano fullscript.sh
+   1 chmod 744 fullscript.sh 
+   2 alias my_script="/root/fullscript.sh"
